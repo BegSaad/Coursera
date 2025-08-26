@@ -15,7 +15,7 @@ const styles = StyleSheet.create({
     container:{
     
             backgroundColor: '#F4CE14',
-            marginBottom:750
+            marginBottom:720
     },
     textstyle:{
         fontSize:30,
